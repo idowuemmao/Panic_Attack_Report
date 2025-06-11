@@ -44,6 +44,17 @@ To explore the dashboard:
 3. Explore the interactive visuals and analyze the data for insights into panic attack trends.
 4. View on LinkedIn [Here](https://www.linkedin.com/posts/emmanuel-idowu-analyst_powerbi-snowflake-healthcareanalytics-activity-7338573276513734657-Q33O")
 
+## **Dashboard**
+
+![Screenshot_3](https://github.com/user-attachments/assets/219384ed-b787-40c0-bf7b-d6899cb57810)
+
+
+![Screenshot_5](https://github.com/user-attachments/assets/ad712b68-0bd5-4cfd-9899-265aa6925480)
+
+
+![Screenshot_4](https://github.com/user-attachments/assets/acdd6422-0628-4a17-99c3-993835bddc79)
+
+
 ## **Future Improvements**
 
 * **Real-time Data Updates**: Integrate automatic data refresh with Snowflake for real-time insights.
